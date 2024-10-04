@@ -1,6 +1,4 @@
 # HiDIYous
-Maintainer: Christoffer Claesson  
-E-Mail: Christoffer@Sakerhetskontoret.se
 
 Its a Diy HID Implant that you can implant in whatever! With a size of 10x11mm (The PCB Manufacturer cant do anything smaller than 10x10, but it is _possible_ to reduce to 10x7mm but that is an excercise for the reader)
 

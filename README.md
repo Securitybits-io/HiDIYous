@@ -67,6 +67,5 @@ Open the file `software/inject.example.ino` into the Arduino IDE, and select the
 Upload the code with the regular Arduino IDE workflow
 
 Setup the pinout according to the chip silkscreen
-![USB Pinout](docs/img/USB_Pinout.jpg)
 
 Now you are finished and are ready to implant it into whatever USB Peripheral you want.

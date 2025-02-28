@@ -47,7 +47,7 @@ avrdude -c arduino -p attiny85 -P /dev/ttyACM1 -b 19200 -Uflash:w:"software/boot
 
 ## Arduino IDE PCB Setup
 Add the following url to the Arduino IDEs additional boards url
-`http://digistump.com/package_digistump_index.json`
+`https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json`
 
 Then go to `Tools > Board > Boards manager`  
 Search for Digispark and install the package: `Digistump AVR Boards`
